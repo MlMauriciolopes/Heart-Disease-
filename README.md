@@ -121,6 +121,9 @@ Os resultados finais das métricas após aplicar escalonamento estão disponíve
 
 Este projeto de análise de dados fornece insights valiosos sobre a previsão de doenças cardíacas com base em um conjunto de dados detalhado. Os resultados e visualizações apresentados aqui podem ser úteis para profissionais da área de ciência de dados que desejam criar modelos de previsão de doenças cardíacas. O conjunto de dados e as análises aqui apresentadas são uma adição valiosa ao seu portfólio de ciência de dados.
 
-### Random Forest Classifier - Scaler
+### Resumo das análises 
+De acordo com as métricas utilizadas, a melhor performance foi a Logistic Regression na parte de **teste**(Target), de acordo com as métricas utlizadas para o estudo desse dataset. 
+
 ![Gráfico de conclusão](img/30_conclusao.png)
+
 
